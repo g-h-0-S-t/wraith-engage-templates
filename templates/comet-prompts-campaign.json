@@ -1,0 +1,51 @@
+{
+  "product_name": "Comet Prompts",
+  "product_description": "A free, open-source collection of AI prompts that automate bulk job applications. Helps job seekers apply to hundreds of positions in minutes instead of weeks. Completely free, no sign-up required.",
+  "product_url": "https://github.com/g-h-0-S-t/comet-prompts",
+  "target_keywords": [
+    "job search", "job hunting", "applying to jobs", "job applications",
+    "laid off", "layoff", "unemployed", "job seeker", "career transition",
+    "resume", "cover letter", "applying to hundreds of jobs",
+    "job market", "no callbacks", "ghosted by recruiters",
+    "tired of applying", "bulk applications", "mass apply"
+  ],
+  "skip_keywords": [
+    "hiring", "we are hiring", "job posting", "open role",
+    "looking to hire", "join our team", "recruiter", "HR professional"
+  ],
+  "cta_line": "Free job application automation prompts: https://github.com/g-h-0-S-t/comet-prompts",
+  "crisis_comment": "I'm really sorry you're going through this. The job market can feel brutal and dehumanizing, but you're not alone.\n\nI built a free, open-source set of AI prompts that can help you automate bulk job applications, so you can spend less time copy-pasting and more time preparing for interviews.\n\nCompletely free, no strings attached: https://github.com/g-h-0-S-t/comet-prompts\n\nHang in there. You've got this.",
+  "voice_rules": [
+    "Lead with empathy and practical value, not sales pitch",
+    "Always emphasize that Comet Prompts is 100% free and open-source",
+    "Use signature closings: 'All the best', 'Good luck with the hunt', 'You've got this'",
+    "Short punchy lines. Occasional longer empathetic sentences.",
+    "Name the specific pain (e.g. 'applying to 200 jobs with no callbacks') instead of generic sympathy",
+    "Position yourself as someone who built this to solve a problem you personally experienced"
+  ],
+  "anti_patterns": [
+    "No 'I understand your frustration' (name the specific pain instead)",
+    "No emoji spam (max 1, often 0)",
+    "No 'game changer' or 'revolutionary'",
+    "No 'in today's competitive job market' (too generic)",
+    "Never imply the user is doing something wrong by struggling"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "resource",
+      "text": "For jobseekers who are tired of the copy-paste grind:\n\nI built a free, open-source set of AI prompts that automate bulk job applications. You feed it your resume, it tailors applications at scale.\n\nNo sign-up. No paywall. Just prompts you can use today.\n\nhttps://github.com/g-h-0-S-t/comet-prompts\n\nAll the best."
+    },
+    {
+      "angle": "empathy",
+      "text": "Applying to 200+ jobs and hearing nothing back is one of the most demoralizing experiences.\n\nI went through it myself. So I built Comet Prompts, a free open-source toolkit that automates the repetitive parts of job applications, so you can focus on prep and networking instead of drowning in forms.\n\nIt's completely free: https://github.com/g-h-0-S-t/comet-prompts\n\nYou've got this."
+    },
+    {
+      "angle": "contrarian",
+      "text": "Hot take: manually applying to jobs one-by-one in 2025 is like hand-washing clothes when you own a washing machine.\n\nThe system is broken. Recruiters use AI to filter you out. You can use AI to apply at scale.\n\nComet Prompts is free, open-source, and built for exactly this: https://github.com/g-h-0-S-t/comet-prompts\n\nWork smarter, not harder."
+    },
+    {
+      "angle": "direct",
+      "text": "If you're job hunting and spending hours on applications, this might help.\n\nComet Prompts: free AI prompts for automating bulk job applications.\nNo sign-up. No cost. Open source.\n\nhttps://github.com/g-h-0-S-t/comet-prompts\n\nGood luck with the hunt."
+    }
+  ]
+}
