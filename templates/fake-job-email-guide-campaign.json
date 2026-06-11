@@ -1,0 +1,51 @@
+{
+  "product_name": "Fake Job Email Response Guide",
+  "product_description": "A free, open-source guide that helps job seekers identify and respond to fake job emails, recruitment scams, and phishing attempts disguised as job offers. Includes templates, red flags checklist, and reporting instructions.",
+  "product_url": "https://github.com/g-h-0-S-t/fake-job-email-response-guide/",
+  "target_keywords": [
+    "fake job", "job scam", "recruitment scam", "phishing email",
+    "suspicious job offer", "fake recruiter", "too good to be true",
+    "job fraud", "scam email", "fake hiring", "identity theft job",
+    "advance fee scam", "fake interview", "wire transfer job",
+    "personal information scam", "job offer scam", "crypto job scam"
+  ],
+  "skip_keywords": [
+    "hiring", "we are hiring", "legitimate job posting",
+    "join our team", "apply now"
+  ],
+  "cta_line": "Free guide to spotting fake job emails: https://github.com/g-h-0-S-t/fake-job-email-response-guide/",
+  "crisis_comment": "I'm sorry this happened to you. Job scams are increasingly sophisticated, and falling for one doesn't mean you did anything wrong.\n\nI put together a free guide on how to identify and respond to fake job emails, including how to report them:\nhttps://github.com/g-h-0-S-t/fake-job-email-response-guide/\n\nPlease don't share any more personal information with them. Stay safe.",
+  "voice_rules": [
+    "Be protective and informative, not alarmist",
+    "Always emphasize the guide is free and open-source",
+    "Use signature closings: 'Stay safe', 'Be careful out there', 'Protect yourself'",
+    "Lead with the specific red flag the person described, then offer the guide",
+    "Position yourself as someone who has seen too many people get scammed during job searches",
+    "Never blame the victim for falling for a scam"
+  ],
+  "anti_patterns": [
+    "No 'you should have known better' (never blame the victim)",
+    "No emoji spam (max 1, often 0)",
+    "No 'in today's world' (too vague)",
+    "No overly dramatic language like 'BEWARE!' or 'DANGER!'",
+    "Never share specific scammer details that could be used for counter-scamming"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "protective",
+      "text": "This has every hallmark of a recruitment scam. The upfront payment request, the vague job description, the urgency.\n\nI put together a free guide on identifying and responding to fake job emails. It covers exactly this scenario:\nhttps://github.com/g-h-0-S-t/fake-job-email-response-guide/\n\nDo NOT send them any money or personal documents.\n\nStay safe."
+    },
+    {
+      "angle": "empathy",
+      "text": "This is unfortunately a very common scam targeting job seekers. When you're desperate for a role, these emails feel like a lifeline, which is exactly what scammers count on.\n\nI've compiled a free, open-source guide with red flags, response templates, and reporting steps:\nhttps://github.com/g-h-0-S-t/fake-job-email-response-guide/\n\nYou're not alone in this. Be careful out there."
+    },
+    {
+      "angle": "educational",
+      "text": "Quick red flags for anyone reading:\n\n- They contacted you first with a 'perfect' role\n- Vague company name or Gmail/Yahoo address\n- Asked for personal info or payment upfront\n- Interview over WhatsApp or Telegram only\n\nIf any of these match, check this free guide:\nhttps://github.com/g-h-0-S-t/fake-job-email-response-guide/\n\nProtect yourself."
+    },
+    {
+      "angle": "direct",
+      "text": "This looks like a fake job email.\n\nFree guide on how to verify and respond: https://github.com/g-h-0-S-t/fake-job-email-response-guide/\n\nDon't share personal info. Report it if you can.\n\nStay safe."
+    }
+  ]
+}

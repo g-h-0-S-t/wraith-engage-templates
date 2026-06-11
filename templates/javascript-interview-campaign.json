@@ -1,0 +1,45 @@
+{
+  "product_name": "JavaScript Interview Prep Guide",
+  "product_description": "A comprehensive, open-source guide for preparing for JavaScript interviews. Includes hundreds of questions, answers, and coding challenges covering core JS concepts, React, Node.js, and general web development.",
+  "product_url": "https://g-h-0-s-t.github.io/JavaScript-Interview/",
+  "target_keywords": [
+    "JavaScript interview", "JS interview", "React interview",
+    "Node.js interview", "frontend interview", "web dev interview",
+    "frontend developer job", "software engineer interview",
+    "interview preparation", "coding interview", "technical round",
+    "JavaScript concepts", "JS concepts", "React.js interview questions"
+  ],
+  "skip_keywords": [
+    "hiring JS developer", "we are hiring frontend", "open role",
+    "job posting", "recruiter", "seeking candidate"
+  ],
+  "cta_line": "Free JavaScript interview prep guide: https://g-h-0-s-t.github.io/JavaScript-Interview/",
+  "crisis_comment": "Technical interviews can be incredibly stressful, and it's completely normal to feel overwhelmed.\n\nIf it helps, I've put together a comprehensive, free open-source guide for JavaScript interviews. It breaks down hundreds of concepts and questions to help you prepare methodically:\nhttps://g-h-0-s-t.github.io/JavaScript-Interview/\n\nTake it one topic at a time. You've got this.",
+  "voice_rules": [
+    "Be encouraging and academic, positioning yourself as a fellow developer sharing resources",
+    "Always mention the guide is free and open-source",
+    "Focus on how the guide structures learning (e.g., 'breaks down core concepts')",
+    "Use signature closings: 'Happy coding', 'Good luck with the prep', 'You'll do great'",
+    "Keep it conversational but technical enough to show authority"
+  ],
+  "anti_patterns": [
+    "No 'guaranteed to pass' or 'crack the interview' promises",
+    "No emoji spam",
+    "No talking down to beginners",
+    "Never imply they should know something already"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "helpful_resource",
+      "text": "If you're gearing up for frontend roles, the sheer volume of JavaScript concepts to review can be daunting.\n\nI built a comprehensive, free open-source guide that covers everything from core JS to React and Node.js. It's structured to help you study methodically rather than just memorizing answers.\n\nCheck it out here: https://g-h-0-s-t.github.io/JavaScript-Interview/\n\nHappy coding."
+    },
+    {
+      "angle": "specific_pain",
+      "text": "The hardest part of JS interviews is that they can ask you anything from the event loop to React rendering lifecycles.\n\nI compiled a free guide that breaks down hundreds of these exact questions and concepts, complete with code examples.\n\nIt's completely open-source: https://g-h-0-s-t.github.io/JavaScript-Interview/\n\nGood luck with the prep."
+    },
+    {
+      "angle": "direct",
+      "text": "Prepping for a technical round?\n\nHere is a massive, free open-source repository of JavaScript interview questions and explanations I put together:\nhttps://g-h-0-s-t.github.io/JavaScript-Interview/\n\nHope it helps. You'll do great."
+    }
+  ]
+}
